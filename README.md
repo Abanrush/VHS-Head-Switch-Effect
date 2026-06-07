@@ -15,10 +15,10 @@ https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/VHS-C
 ## Video8
 ![Video8](Demonstration/Video8.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Video8.mp4
-## Hi8 1
+## Hi8 №1
 ![Hi8 #1](Demonstration/Hi8-1.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Hi8-1.mp4
-## Hi8 2
+## Hi8 №2
 ![Hi8 #1](Demonstration/Hi8-2.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Hi8-2.mp4
 ## VHS Gen 3
