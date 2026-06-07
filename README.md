@@ -7,6 +7,10 @@
 ![Default](Demonstration/Default.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Default.mp4
 
+<video src="Demonstration/Default1.mp4" controls width="600"></video>
+
+<video src="Demonstration/Default1.webm" controls width="600"></video>
+
 ## VHS
 ![VHS](Demonstration/VHS.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/VHS.mp4
