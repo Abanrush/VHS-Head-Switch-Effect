@@ -35,5 +35,5 @@ https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Video
 ## ReShade
 Шейдеры нужно перенести в папку reshade-shaders\Shaders\ и включить в игре. Протестировано на ReShade 4.9.1 и 6.7.3.
 
-## AviSynth + VirtualDub
-Перенести файл скрипта в окно VirtualDub и сохранить. Файл скрипта и видео должны находится в одной и той же директории, название видео по умолчанию "input.mp4".
+## AviSynth + VirtualDub2
+Файл скрипта нужно перенести в окно VirtualDub2 и сохранить. Видео и файл скрипта должны находится в одной и той же директории, название видео по умолчанию "input.mp4", для работы требуется плагин FFMS2 для Avisynth. Протестировано на Avisynth+ 3.7.3 и VirtualDub2.
