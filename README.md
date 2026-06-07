@@ -4,5 +4,8 @@
 # Виды переключений
 Всего 8 видов переключения + 1 дополнительный.
 ## Default
-(Demonstration/Default.gif)
-<video src="demonstrations/Default.mp4" controls width="1280"></video>
+![Default](demonstrations/Default.gif)
+<video src="demonstrations/Default.mp4" controls width="960"></video>
+
+## VHS
+
