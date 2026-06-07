@@ -4,8 +4,11 @@
 # Виды переключений
 Всего 8 видов переключения + 1 дополнительный.
 ## Default
-![Default](demonstrations/Default.gif)
-<video src="demonstrations/Default.mp4" controls width="960"></video>
+![Default](Demonstration/Default.gif)
+
+https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Default.gif
+
+<video src="Demonstration/Default.mp4" controls width="960"></video>
 
 ## VHS
 
