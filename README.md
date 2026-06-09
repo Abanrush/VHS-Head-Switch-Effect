@@ -3,9 +3,6 @@
 
 # Виды переключений
 Всего 8 видов, основанных на реальных аналоговых записях + 1 дополнительный.
-## Default
-![Default](Demonstration/Default.gif)
-https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Default.mp4
 ## VHS
 ![VHS](Demonstration/VHS.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/VHS.mp4
@@ -30,10 +27,13 @@ https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/VHS-C
 ## Video8 -> VHS
 ![Video8 -> VHS](Demonstration/Video8-VHS.gif)
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Video8-VHS.mp4
+## Custom №1
+![Custom1](Demonstration/Default.gif)
+https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Default.mp4
 
 # Как использовать
 ## ReShade
 Шейдеры нужно перенести в папку reshade-shaders\Shaders\ и включить в игре. Протестировано на ReShade 4.9.1 и 6.7.3.
 
 ## AviSynth + VirtualDub2
-Файл скрипта нужно перенести в окно VirtualDub2 и сохранить. Видео и файл скрипта должны находится в одной и той же директории, название видео по умолчанию "input.mp4", для работы требуется плагин FFMS2 для Avisynth. Протестировано на Avisynth+ 3.7.3 и VirtualDub2.
+Файл скрипта нужно перенести в окно VirtualDub2 и сохранить. Видео и файл скрипта должны находится в одной и той же директории, название видео по умолчанию "input.mp4", для работы требуется плагин FFMS2 для Avisynth+. Протестировано на Avisynth+ 3.7.3 и VirtualDub2.
