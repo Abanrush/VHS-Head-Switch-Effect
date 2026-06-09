@@ -29,7 +29,7 @@ https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/VHS-C
 https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Video8-VHS.mp4
 ## Custom №1
 ![Custom1](Demonstration/Custom-1.gif)
-https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Default.mp4
+https://github.com/Abanrush/VHS-Head-Switch-Effect/blob/main/Demonstration/Custom-1.mp4
 
 # Как использовать
 ## ReShade
